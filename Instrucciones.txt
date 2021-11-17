@@ -1,0 +1,6 @@
+Instalar los paquetes del Back y Front con "npm i"
+Ejecutar el Front con "npm run serve" y el Back con "node index.js"
+
+Nota
+El BackEnd lo hice con node por la facilidad de implementar
+Se uso axios para las peticiones
